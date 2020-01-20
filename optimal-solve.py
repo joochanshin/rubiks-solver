@@ -21,3 +21,5 @@ for i in range(0, len(algList[rand])):
 
 print(commands)
 
+for i in range(0, len(commands)):
+    print(commands[i], 19-i)
